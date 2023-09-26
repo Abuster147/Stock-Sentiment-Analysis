@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHoewr7vr4cdaHMUqFSeAJ5jHCUJtvuRRxPHqekr9PUsPF0Y7MNe+5RIaxP3GOIkyyZfgAWjMg/6OAukaqC0Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akash\\OneDrive\\Desktop\\selenium testing\\MyCSharpApp\\MyCSharpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akash\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.19.0\\microsoft.identitymodel.abstractions.6.19.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\microsoft.identitymodel.logging\\6.19.0\\microsoft.identitymodel.logging.6.19.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.19.0\\microsoft.identitymodel.tokens.6.19.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\selenium.webdriver\\4.12.4\\selenium.webdriver.4.12.4.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\selenium.webdriver.chromedriver\\116.0.5845.9600\\selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
